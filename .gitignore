@@ -1,0 +1,5 @@
+composer.lock
+application/logs/database/*
+.directory
+vendor/*
+files/barcode/*
